@@ -7,6 +7,10 @@
 			"files": [
 				"E:/Code/ure-cart/goXCart/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/1/52/UR4FACZ5ST7F98FNPR98II.uasset",
 				"E:/Code/ure-cart/goXCart/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/3/1Z/FRD2MXECSEIZ53EKKWSKSR.uasset",
+				"E:/Code/ure-cart/goXCart/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/3/I5/39QMOMX0SBF5P8WX11O0V6.uasset",
+				"E:/Code/ure-cart/goXCart/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_TorqueCurve.uasset",
+				"E:/Code/ure-cart/goXCart/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_WheelsRear.uasset",
+				"E:/Code/ure-cart/goXCart/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_WheelsFront.uasset",
 				"C:/Users/brand/OneDrive/Documents/Unreal Projects/MyProject/ure-cart/goXCart/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
